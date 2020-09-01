@@ -62,11 +62,7 @@ I hate to use time as an excuse but given an extra few hours or so, I would impr
   in GoLand 2020.1 IDE.
 
 # How to run the service
-- Extract the archive into your local target folder.
-  e.g.
-  ~~~
-  unzip BankingApp.zip -d target-folder
-  ~~~
+- Clone the repo to a folder (e.g. BankingApp)
   
 - From the project root folder (e.g. BankingApp), run this command to download all the dependencies
   ~~~
